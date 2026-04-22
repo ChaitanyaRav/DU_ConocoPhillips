@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher-ConocoPhillips",
+  "ProjectType": "Process",
+  "Description": "Send settlement statements path to queue",
+  "MainFile": "Main.xaml"
+}
